@@ -1,5 +1,6 @@
 # Personal Website
 
+Link: https://rudrasingh.netlify.app/
 To create my personal website, I utilized:
 * React and Next.js for UI development
 * Tailwind CSS for styling and HTML
