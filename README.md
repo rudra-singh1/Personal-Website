@@ -1,13 +1,12 @@
 # Personal Website
 
-Link: https://rudrasingh.netlify.app/
-
 To create my personal website, I utilized:
 * React and Next.js for UI development
-* Tailwind CSS for styling and HTML
+* Tailwind CSS for styling
+* HTML
 * Node.js for server-side functionality
-* Git will handle version control
-* CDN for deploying the site
+* Git for version control
+* CDN (Netlify) for deploying the site
 
 ### `npm start`
 
