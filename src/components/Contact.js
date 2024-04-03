@@ -16,17 +16,12 @@ export default function Contact() {
             Contact Me
           </h2>
           <p className="leading-relaxed mb-5">
-            For resume or any inquiries, please use one of the contact methods below:
+            For any inquiries, please contact me using methods below:
           </p>
           <div className="relative mb-4">
             <b>Name</b>
             <br />
             Rudra Prakash Singh
-          </div>
-          <div className="relative mb-4">
-            <b>Email</b>
-            <br />
-            singh.rudra0502@gmail.com
           </div>
           <div className="relative mb-4">
             <b>Linkedin</b>
