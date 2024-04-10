@@ -42,4 +42,6 @@ export const skills = [
   "Node.js",
   "MATLAB",
   "HTML + CSS",
+  "GraphQL",
+  "Flask",
 ];
