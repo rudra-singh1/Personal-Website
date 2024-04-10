@@ -3,15 +3,15 @@ export const projects = [
     title: "Vaultwarden",
     subtitle: "Azure, Linux, Docker, Nginx",
     description:
-      "Azure password manager deployed on Ubuntu VM with PostgreSQL database, Docker, Nginx, and automated data backup functionality.",
+      "Lightweight & open-source password manager.",
     image: "./ezgif.com-censor (1).gif",
     link: "",
   },
   {
     title: "Personal Website",
-    subtitle: "React, Next.js, Node.js, HTML, CSS",
+    subtitle: "React.js, Next.js, Node.js, HTML, CSS",
     description:
-      "Responsive personal website showcasing my projects, experience, skills, and interests.",
+      "Responsive personal website & portfolio.",
     image: "./personalwebsite recording.gif",
     link: "",
   },
