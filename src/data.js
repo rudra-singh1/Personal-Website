@@ -20,28 +20,19 @@ export const projects = [
 export const testimonials = [
   {
     quote: 
-      "I'm Rudra Prakash Singh, an avid tech enthusiast with a knack for delving into the intricacies of frameworks and research. Beyond the screen, you'll often find me amidst nature, cultivating a love for gardening, exploring trails through hiking, and occasionally perfecting my swing on the golf course.", 
-    image: "https://media.licdn.com/dms/image/D4E03AQGJ2QjR5yf4pw/profile-displayphoto-shrink_800_800/0/1686668770922?e=1716422400&v=beta&t=G2x3jE3xLJDdnHmsiKkZvsRW5mEhO6iAmSTpQuD9b_c",
+      "I'm Rudra Prakash Singh, a passionate tech enthusiast who enjoys exploring frameworks and conducting research. When I'm not immersed in coding, you'll find me nurturing plants in my garden, exploring hiking trails, and occasionally honing my golf swing.", 
+    image: "https://media.licdn.com/dms/image/D4E03AQGJ2QjR5yf4pw/profile-displayphoto-shrink_800_800/0/1686668770922?e=1726704000&v=beta&t=JK74EcPVsKm57ZH3Y9T7AujiNErbNNiICanVF1rm0QI",
     name: "Rudra Prakash Singh",
     company: "",
   },
 ];
 
 export const skills = [
-  "Azure",
-  "Docker",
-  "MySQL + PostgreSQL + SQLite",
-  "Linux + Ubuntu",
-  "Alteryx",
-  "Power BI",
-  "Python",
-  "React",
-  "Java",
-  "Next.js",
-  "SQL",
-  "Node.js",
-  "MATLAB",
-  "HTML + CSS",
-  "GraphQL",
-  "Flask",
+  "Programming: JavaScript, TypeScript, Java, Python, SQL",
+  "Frontend: React, Angular, HTML, CSS, Next.js",
+  "Backend: Node.js, Flask",
+  "Databases: MySQL, PostgreSQL, SQLite, MongoDB",
+  "DevOps: Docker, Linux, Ubuntu, Azure, Nginx",
+  "Data Analysis: Alteryx, Power BI, MATLAB, TensorFlow",
+  "APIs: GraphQL",
 ];
