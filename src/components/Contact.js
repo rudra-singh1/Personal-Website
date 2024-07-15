@@ -28,6 +28,11 @@ export default function Contact() {
             <br />
             <a href="https://www.linkedin.com/in/rudra-p-singh/" className="text-indigo-400">https://www.linkedin.com/in/rudra-p-singh/</a>
           </div>
+          <div className="relative mb-4">
+            <b>GitHub</b>
+            <br />
+            <a href="https://github.com/rudra-singh1" className="text-indigo-400">https://github.com/rudra-singh1</a>
+          </div>
         </div>
       </div>
     </section>
