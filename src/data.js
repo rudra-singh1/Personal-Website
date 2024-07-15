@@ -34,5 +34,5 @@ export const skills = [
   "Databases: MySQL, PostgreSQL, SQLite, MongoDB",
   "DevOps: Docker, Linux, Ubuntu, Azure, Nginx",
   "Data Analysis: Alteryx, Power BI, MATLAB, TensorFlow",
-  "APIs: GraphQL",
+  "APIs: GraphQL, Azure REST API",
 ];
