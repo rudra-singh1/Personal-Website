@@ -17,6 +17,38 @@ export default function Experience() {
         <div className="relative">
           <div className="border-r-4 border-green-400 absolute h-full left-0"></div>
           <div className="ml-12">
+          {/* Software Enginer Intern @ Centers for Disease Control and Prevention  */}
+            <div className="flex items-center mb-6">
+              <div className="w-6 h-6 bg-green-400 rounded-full mr-4 mt-2"></div>
+              <div className="bg-gray-800 rounded p-4 flex-grow">
+                <p className="text-white">Software Enginer Intern @ Centers for Disease Control and Prevention (CDC)</p>
+                <p className="text-gray-300 text-base">June 2024 - Present</p>
+                <p className="text-gray-400 text-sm">
+                  Tech Stack: AngularJS, Typescript, RxJS, Node.js, HTML, CSS, FHIR
+                </p>
+                <div className="mt-2">
+                  <div className="text-white">•	Led design of a FHIR-compliant website using AngularJS and Angular Material for viewing 1.5M lab records.</div>
+                  <div className="text-white">•	Enhanced data handling and UI responsiveness using TypeScript and RxJS, reducing load times by 50%.</div>
+                  <div className="text-white">•	Standardized lab code translations with a middleware Node.js application, reducing errors by 98%.</div>
+                </div>
+              </div>
+            </div>
+            {/* Web Developer @ Paul. G Allen School of Computer Science and Engineering */}
+            <div className="flex items-center mb-6">
+              <div className="w-6 h-6 bg-green-400 rounded-full mr-4 mt-2"></div>
+              <div className="bg-gray-800 rounded p-4 flex-grow">
+                <p className="text-white">Web Developer @ Paul. G Allen School of Computer Science and Engineering</p>
+                <p className="text-gray-300 text-base">June 2024 - Present</p>
+                <p className="text-gray-400 text-sm">
+                  Tech Stack: Proxmox VE, AngularJS, HTML, CSS, RESTful API, LDAP
+                </p>
+                <div className="mt-2">
+                  <div className="text-white">• Building a logging server interface using AngularJS, HTML, and CSS for Seattle Community Network.</div>
+                  <div className="text-white">• Created and integrated a RESTful API for log access and Docker diagnostics, hosted on Swagger UI.</div>
+                  <div className="text-white">• Implemented LDAP authentication for 200 users.</div>
+                </div>
+              </div>
+            </div>
             {/* Undergraduate Research Assistant Position at Paul. G Allen School of Computer Science and Engineering */}
             <div className="flex items-center mb-6">
               <div className="w-6 h-6 bg-green-400 rounded-full mr-4 mt-2"></div>
@@ -24,12 +56,12 @@ export default function Experience() {
                 <p className="text-white">Undergraduate Research Assistant @ University of Washington</p>
                 <p className="text-gray-300 text-base">December 2023 - Present</p>
                 <p className="text-gray-400 text-sm">
-                  Tech Stack: Azure, Docker, Ubuntu, Linux, PostgreSQL, SQLite, Asymmetric Encryption, YAML, Nginx, CRON Jobs, SSL Certification, Bash Scripting
+                  Tech Stack: Azure, Docker, Ubuntu, PostgreSQL, Nginx, SSL, Python
                 </p>
                 <div className="mt-2">
-                  <div className="text-white">• Created Azure password manager with RDBMS and asymmetric encryption.</div>
-                  <div className="text-white">• Deployed solution on Ubuntu Azure VM using Docker and automated data backup with CRON jobs.</div>
-                  <div className="text-white">• Implemented website security via Nginx with SSL certification.</div>
+                  <div className="text-white">• Developed a lab password manager using Azure DNS, PostgreSQL, and Virtual Machine, supporting 200 users.</div>
+                  <div className="text-white">• Utilized Azure SDK to write Python scripts to back up data to Blob Storage, cutting costs from $480 to $0.12/yr.</div>
+                  <div className="text-white">• Optimized system architecture with Docker Compose, Nginx, SSL.</div>
                 </div>
               </div>
             </div>
