@@ -24,12 +24,15 @@ export default function Experience() {
                 <p className="text-white">Software Enginer Intern @ Centers for Disease Control and Prevention (CDC)</p>
                 <p className="text-gray-300 text-base">June 2024 - Present</p>
                 <p className="text-gray-400 text-sm">
-                  Tech Stack: AngularJS, Typescript, RxJS, Node.js, HTML, CSS, FHIR
+                  Tech Stack: Angular JS, Typescript, RxJS, Node.js, HTML, CSS, FHIR
                 </p>
                 <div className="mt-2">
-                  <div className="text-white">•	Led design of a FHIR-compliant website using AngularJS and Angular Material for viewing 1.5M lab records.</div>
-                  <div className="text-white">•	Enhanced data handling and UI responsiveness using TypeScript and RxJS, reducing load times by 50%.</div>
-                  <div className="text-white">•	Standardized lab code translations with a middleware Node.js application, reducing errors by 98%.</div>
+                  <div className="text-white">•	Objective: Improved epidemiological analysis of 2.5M health data records; mapped local codes to FHIR standards using NLP</div>
+                  <div className="text-white">•	Built Angular JS, TypeScript, & RxJS-based web app for managing HL7 v2 message mappings and vocabularies.</div>
+                  <div className="text-white">•	Developed Express.js RESTful API handling 10k requests/minute for OBR, OBX, and SPM data.</div>
+                  <div className="text-white">•	Increased efficiency 40% by developing Node.js parser for HL7 v2 to FHIR translations.</div>
+                  <div className="text-white">•	Created spaCy NLP models to map local codes to SNOMED CT, achieving 95% F1 score accuracy.</div>
+                  <div className="text-white">•	Integrated OAuth for secure web application user authentication.</div>
                 </div>
               </div>
             </div>
@@ -40,12 +43,13 @@ export default function Experience() {
                 <p className="text-white">Web Developer @ Paul. G Allen School of Computer Science and Engineering</p>
                 <p className="text-gray-300 text-base">June 2024 - Present</p>
                 <p className="text-gray-400 text-sm">
-                  Tech Stack: Proxmox VE, AngularJS, HTML, CSS, RESTful API, LDAP
+                  Tech Stack: Proxmox VE, Angular JS, HTML, CSS, RESTful API, LDAP
                 </p>
                 <div className="mt-2">
-                  <div className="text-white">• Building a logging server interface using AngularJS, HTML, and CSS for Seattle Community Network.</div>
-                  <div className="text-white">• Created and integrated a RESTful API for log access and Docker diagnostics, hosted on Swagger UI.</div>
-                  <div className="text-white">• Implemented LDAP authentication for 200 users.</div>
+                  <div className="text-white">• Objective: Design a web-based logging server interface for Seattle Community Network’s 15+ services.</div>
+                  <div className="text-white">• Developed Angular JS, HTML, & CSS-based UI for logging interface, hosted on Proxmox VE LXC container.</div>
+                  <div className="text-white">• Created Python REST API for managing various log types (Syslog, FreeIPA, Nginx, Docker).</div>
+                  <div className="text-white">• Implemented LDAP authentication for 200+ users; facilitated log retrieval from Azure Blob Storage.</div>
                 </div>
               </div>
             </div>
@@ -59,9 +63,10 @@ export default function Experience() {
                   Tech Stack: Azure, Docker, Ubuntu, PostgreSQL, Nginx, SSL, Python
                 </p>
                 <div className="mt-2">
-                  <div className="text-white">• Developed a lab password manager using Azure DNS, PostgreSQL, and Virtual Machine, supporting 200 users.</div>
-                  <div className="text-white">• Utilized Azure SDK to write Python scripts to back up data to Blob Storage, cutting costs from $480 to $0.12/yr.</div>
-                  <div className="text-white">• Optimized system architecture with Docker Compose, Nginx, SSL.</div>
+                  <div className="text-white">• Objective: Develop a password manager using Azure services for Seattle Community Network.</div>
+                  <div className="text-white">• Built 99.9% uptime password manager using Azure services (DNS, PostgreSQL, VM) for 200 users.</div>
+                  <div className="text-white">• Created Python scripts using Azure SDK to automate data backups to Blob Storage, cutting costs from $480 to $0.12/year.</div>
+                  <div className="text-white">• Optimized system architecture with Docker Compose, Nginx reverse proxy, and SSL certifications.</div>
                 </div>
               </div>
             </div>
