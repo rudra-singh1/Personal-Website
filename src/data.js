@@ -1,11 +1,36 @@
 export const projects = [
   {
+    title: "ArcticBuoy-ML Predictor",
+    subtitle: "PyTorch, scikit-learn, pandas, NumPy, Git, AWS",
+    description:
+      "ML Tool for accurate Arctic buoy trajectory predictions.",
+    image: "./scripting pic.png",
+    link: "https://github.com/UW-MLGEO/MLGEO2024_AObuoypredict",
+  },
+  {
+    title: "Open Source Contributor: SCN",
+    subtitle: "Proxmox, Azure, Python Scripting, CRON Jobs, Technical Writing",
+    description:
+      "Contributing to developing & maintaining open source software for Seattle Community Network.",
+    image: "./os ss.png",
+    link: "https://docs.seattlecommunitynetwork.org/tutorials/proxmox-vaultwarden-deployment/",
+  },
+  {
+    title: "Spotify Data Transmission Workflow",
+    subtitle: "QPSK Modulation, MATLAB, Audio Processing",
+    description:
+      "Implemented audio transmission using QPSK modulation in MATLAB to convert songs to bit streams and back.",
+    image: "./audioss.png", 
+    link: "https://github.com/rudra-singh1/Spotify-Data-Transmission-Workflow",
+  },
+  
+  {
     title: "Vaultwarden",
     subtitle: "Azure, Linux, Docker, Nginx",
     description:
       "Lightweight & open-source password manager.",
     image: "./ezgif.com-censor (1).gif",
-    link: "",
+    link: "https://vaultwarden.seattlecommunitynetwork.org/#/login",
   },
   {
     title: "Personal Website",
@@ -20,8 +45,8 @@ export const projects = [
 export const testimonials = [
   {
     quote: 
-      "I'm Rudra Prakash Singh, a passionate tech enthusiast who enjoys exploring frameworks and conducting research. When I'm not immersed in coding, you'll find me nurturing plants in my garden, exploring hiking trails, and occasionally honing my golf swing.", 
-    image: "https://media.licdn.com/dms/image/D4E03AQGJ2QjR5yf4pw/profile-displayphoto-shrink_800_800/0/1686668770922?e=1726704000&v=beta&t=JK74EcPVsKm57ZH3Y9T7AujiNErbNNiICanVF1rm0QI",
+      "I'm Rudra Prakash Singh, interested in in full-stack development and machine learning. When I'm not immersed in coding, you'll find me tending to plants in my garden, exploring hiking trails, and occasionally honing my golf swing.", 
+    image: "https://media.licdn.com/dms/image/v2/D4E03AQHTPcX2r1D-Jw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725061985620?e=1735776000&v=beta&t=0g0TU_ikFhzYmtzRUGk6pi8JU111DgQTKnnNuOmUUbg",
     name: "Rudra Prakash Singh",
     company: "",
   },
@@ -30,9 +55,12 @@ export const testimonials = [
 export const skills = [
   "Programming: JavaScript, TypeScript, Java, Python, SQL",
   "Frontend: React, Angular, HTML, CSS, Next.js",
-  "Backend: Node.js, Flask",
+  "Backend: Node.js, Flask, Java Spring Boot, FastAPI",
   "Databases: MySQL, PostgreSQL, SQLite, MongoDB",
-  "DevOps: Docker, Linux, Ubuntu, Azure, Nginx",
-  "Data Analysis: Alteryx, Power BI, MATLAB, TensorFlow",
-  "APIs: GraphQL, Azure REST API",
+  "Cloud: Docker, Azure, AWS, Linux, Ubuntu, Nginx",
+  "Data Analysis: Alteryx, Power BI, TensorFlow, Grafana",
+  "APIs: RESTful APIs, GraphQL, Azure REST API",
+  "Project Management: Git, GitLab, Jira, Confluence, Agile/Scrum methodologies",
+  "Miscellaneous: AJAX, Unit & Integration Testing, Postman, Jest",
 ];
+

@@ -59,11 +59,11 @@ export default function Testimonials() {
                 <span className="flex-grow flex flex-col pl-4">
                   <div className="mt-4">
                     <span className="font-bold text-lg">Education:</span>{" "}
-                    <span>B.S. in Computer Science @ University of Washington Seattle 2023-2027</span>
+                    <span>B.S Computer Science @ University of Washington Seattle 2023-2026</span>
                   </div>
                   <div className="mt-4">
                     <span className="font-bold text-lg">Certifications:</span>{" "}
-                    <span>Python Certification from MITx Courses</span>
+                    <span>Microsoft Certified: Azure Developer Associate (AZ-204)</span>
                   </div>
                   <div className="mt-4">
                     <span className="font-bold text-lg">Activities and Societies:</span>{" "}

@@ -14,7 +14,7 @@ export default function About() {
           </h1>
           <p className="mb-8 leading-relaxed">
             Computer Science Undergraduate at the University of Washington - Seattle, 
-            interested in cloud computing, software development, or machine learning.
+            interested in web development, software engineering, and machine learning.
           </p>
           <div className="flex justify-center">
             <a
