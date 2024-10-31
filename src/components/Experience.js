@@ -22,7 +22,7 @@ export default function Experience() {
               <div className="w-6 h-6 bg-green-400 rounded-full mr-4 mt-2"></div>
               <div className="bg-gray-800 rounded p-4 flex-grow">
                 <p className="text-white">Software Enginer Intern @ Centers for Disease Control and Prevention (CDC)</p>
-                <p className="text-gray-300 text-base">June 2024 - Present</p>
+                <p className="text-gray-300 text-base">June 2024 - Aug 2024</p>
                 <p className="text-gray-400 text-sm">
                   Tech Stack: Angular, Typescript, Node.js, HTML, CSS, Python, FastAPI, OAuth MFA
                 </p>
