@@ -62,10 +62,6 @@ export default function Testimonials() {
                     <span>B.S Computer Science @ University of Washington</span>
                   </div>
                   <div className="mt-4">
-                    <span className="font-bold text-lg">Graduation:</span>{" "}
-                    <span>June 2026</span>
-                  </div>
-                  <div className="mt-4">
                     <span className="font-bold text-lg">Certifications:</span>{" "}
                     <span>Microsoft Certified: Azure Developer Associate</span>
                   </div>
