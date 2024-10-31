@@ -56,7 +56,7 @@ export default function Experience() {
                 <p className="text-white">Undergraduate Research Assistant @ University of Washington</p>
                 <p className="text-gray-300 text-base">December 2023 - Present</p>
                 <p className="text-gray-400 text-sm">
-                  Tech Stack: Azure, Docker, Ubuntu, MongoDB, Nginx, SSL, Python Scripting
+                  Tech Stack: Azure, Docker, Ubuntu, MongoDB, Nginx, SSL, Python 
                 </p>
                 <div className="mt-2">
                   <div className="text-white">• OImproved security for 200 users by deploying password manager using Azure Cloud (MongoDB Atlas, VM, Blob Storage)</div>
@@ -72,7 +72,7 @@ export default function Experience() {
                 <p className="text-white">Research Intern @ Georgia Tech VIP Program</p>
                 <p className="text-gray-300 text-base">July 2022 - September 2023</p>
                 <p className="text-gray-400 text-sm">
-                  Tech Stack: SQL, MySQL, MATLAB, IoT, Sensors
+                  Tech Stack: React, AJAX, MySQL, MATLAB, IoT, Sensors
                 </p>
                 <div className="mt-2">
                   <div className="text-white">• Improved football TV streaming coverage by visualizing 4.6 TB of sensor data at Bobby Dodd Stadium  </div>
