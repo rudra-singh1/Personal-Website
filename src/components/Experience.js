@@ -27,9 +27,10 @@ export default function Experience() {
                   Tech Stack: Angular, Typescript, Node.js, HTML, CSS, Python, FastAPI, OAuth MFA
                 </p>
                 <div className="mt-2">
-                  <div className="text-white">•	Transformed 2.7M health data points into readable formats for 360k researchers using AngularJS & TypeScript for frontend </div>
-                  <div className="text-white">•	Handled 10k requests/min for patient data by building RESTful API backend in Python with FastAPI and PostgreSQL </div>
-                  <div className="text-white">•	Enabled authorization to 14k CDC emails by integrating OAuth 2.0 MFA for CDC dataset access</div>
+                <div className="text-white">• Developed Angular & Typescript web app that transformed 2.7M health records into accessible formats for 360K researchers</div>
+                <div className="text-white">• Built RESTful API backend in FastAPI and PostgreSQL, handling 10k concurrent requests for patient data retrieval</div>
+                <div className="text-white">• Implemented OAuth 2.0 MFA system for 14k CDC accounts, ensuring FHIR-compliant dataset access</div>
+
                 </div>
               </div>
             </div>
@@ -43,9 +44,9 @@ export default function Experience() {
                   Tech Stack: Grafana, REST, FastAPI, Python, Proxmox VE, Swagger
                 </p>
                 <div className="mt-2">
-                  <div className="text-white">• Enabled debugging of client performance issues by developing Grafana log dashboard for 15 SCN servers </div>
-                  <div className="text-white">• Developed Angular JS, HTML, & CSS-based UI for logging interface, hosted on Proxmox VE LXC container.</div>
-                  <div className="text-white">• Deployed website through Proxmox VE and worked with client on user experience and interface aspects  </div>
+                <div className="text-white">• Architected Grafana log dashboard monitoring system for 15 SCN servers, reducing incident response time by 75%</div>
+                <div className="text-white">• Implemented REST API with FastAPI for CRUD operations, processing 10K+ daily log entries</div>
+                <div className="text-white">• Implemented TypeScript features on user interface, and deployed via Proxmox VE</div>
                 </div>
               </div>
             </div>
@@ -59,9 +60,9 @@ export default function Experience() {
                   Tech Stack: Azure, Docker, Ubuntu, MongoDB, Nginx, SSL, Python 
                 </p>
                 <div className="mt-2">
-                  <div className="text-white">• OImproved security for 200 users by deploying password manager using Azure Cloud (MongoDB Atlas, VM, Blob Storage)</div>
-                  <div className="text-white">• Developed Power BI dashboard to monitor Docker container health, resource usage, and backup status for users </div>
-                  <div className="text-white">• Enhanced app deployment using Docker for multi-container setups via Docker Compose (YAML) and Dockerfiles </div>
+                <div className="text-white">• Improved security for 200 users by deploying password manager using Azure Cloud (MongoDB Atlas, VM, Blob Storage)</div>
+                <div className="text-white">• Reduced Azure Blob Storage costs from $480 to $0.12/year by automating MongoDB backups with Python scripting</div>
+                <div className="text-white">• Enhanced app deployment using Docker for multi-container setups via Docker Compose (YAML) and Dockerfiles</div>
                 </div>
               </div>
             </div>
@@ -75,8 +76,8 @@ export default function Experience() {
                   Tech Stack: React, AJAX, MySQL, MATLAB, IoT, Sensors
                 </p>
                 <div className="mt-2">
-                  <div className="text-white">• Improved football TV streaming coverage by visualizing 4.6 TB of sensor data at Bobby Dodd Stadium  </div>
-                  <div className="text-white">• Developed a MATLAB backend with a PostgreSQL server that communicated with a ReactJS frontend via AJAX requests </div>
+                <div className="text-white">• Developed real-time sports analytics platform processing 4TB of sensor data during Bobby Dodd Stadium football games</div>
+                <div className="text-white">• Built React frontend integrated with MATLAB backend & PostgreSQL database, handling 500 concurrent AJAX requests</div>
                 </div>
               </div>
             </div>

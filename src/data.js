@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "ArcticBuoy-ML Predictor",
-    subtitle: "PyTorch, scikit-learn, pandas, NumPy, Git, AWS",
+    subtitle: "Python, PyTorch, scikit-learn, pandas, NumPy, AWS",
     description:
       "ML Tool for accurate Arctic buoy trajectory predictions.",
     image: "./scripting pic.png",
@@ -14,6 +14,30 @@ export const projects = [
       "Contributing to developing & maintaining open source software for Seattle Community Network.",
     image: "./os ss.png",
     link: "https://docs.seattlecommunitynetwork.org/tutorials/proxmox-vaultwarden-deployment/",
+  },
+  {
+    title: "Humans Helping Humans",
+    subtitle: "Swift, Google Firebase, Git",
+    description:
+      "Connecting low-income individuals with food and clothing through a donation platform.",
+    image: "./iosss.png", 
+    link: "https://devpost.com/software/humans-helping-humans",
+  },
+  {
+    title: "TopKHeap for Chess Player Rankings",
+    subtitle: "Java, Data Structures (Binary Heap, HashMap)",
+    description:
+      " Developed a dynamic data structure to efficiently manage and update the top k chess players by Elo ratings.",
+    image: "./topkheapp.png", 
+    link: "https://github.com/rudra-singh1/topKheap/tree/main",
+  },
+  {
+    title: " Dynamic Memory Allocator",
+    subtitle: "C, GDB, Valgrind",
+    description:
+      "Developed a high-performance memory management system with efficient allocation and deallocation strategies.",
+    image: "./dynalloc.png", 
+    link: "https://github.com/rudra-singh1/dynamicAllocator",
   },
   {
     title: "Spotify Data Transmission Workflow",
@@ -54,9 +78,9 @@ export const testimonials = [
 
 export const skills = [
   "Programming: JavaScript, TypeScript, Java, Python, SQL",
-  "Frontend: React, Angular, HTML, CSS, Next.js",
+  "Frontend: React, Angular, HTML, CSS, Swift, Next.js",
   "Backend: Node.js, Flask, Java Spring Boot, FastAPI",
-  "Databases: MySQL, PostgreSQL, SQLite, MongoDB",
+  "Databases: MySQL, PostgreSQL, Firebase, MongoDB",
   "Cloud: Docker, Azure, AWS, Linux, Ubuntu, Nginx",
   "Data Analysis: Alteryx, Power BI, TensorFlow, Grafana",
   "APIs: RESTful APIs, GraphQL, Azure REST API",
