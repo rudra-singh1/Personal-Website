@@ -39,7 +39,7 @@ export default function Experience() {
               <div className="w-6 h-6 bg-green-400 rounded-full mr-4 mt-2"></div>
               <div className="bg-gray-800 rounded p-4 flex-grow">
                 <p className="text-white">Software Developer @ Paul. G Allen School of Computer Science and Engineering</p>
-                <p className="text-gray-300 text-base">June 2024 - Present</p>
+                <p className="text-gray-300 text-base">June 2024 - Aug 2024</p>
                 <p className="text-gray-400 text-sm">
                   Tech Stack: Grafana, REST, FastAPI, Python, Proxmox VE, Swagger
                 </p>
@@ -55,7 +55,7 @@ export default function Experience() {
               <div className="w-6 h-6 bg-green-400 rounded-full mr-4 mt-2"></div>
               <div className="bg-gray-800 rounded p-4 flex-grow">
                 <p className="text-white">Undergraduate Research Assistant @ University of Washington</p>
-                <p className="text-gray-300 text-base">December 2023 - Present</p>
+                <p className="text-gray-300 text-base">December 2023 - June 2024</p>
                 <p className="text-gray-400 text-sm">
                   Tech Stack: Azure, Docker, Ubuntu, MongoDB, Nginx, SSL, Python 
                 </p>
