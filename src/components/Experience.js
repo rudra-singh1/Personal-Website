@@ -77,7 +77,7 @@ export default function Experience() {
                 </p>
                 <div className="mt-2">
                 <div className="text-white">• Developed real-time sports analytics platform processing 4TB of sensor data during Bobby Dodd Stadium football games</div>
-                <div className="text-white">• Built React frontend integrated with MATLAB backend & PostgreSQL database, handling 500 concurrent AJAX requests</div>
+                <div className="text-white">• Built React frontend integrated with MATLAB backend & MySQL database, handling 500 concurrent AJAX requests</div>
                 </div>
               </div>
             </div>
