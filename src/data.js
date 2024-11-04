@@ -1,5 +1,13 @@
 export const projects = [
   {
+    title: "Biomedical Chatbot",
+    subtitle: "FastAPI, LangChain, Llama, Qdrant, Jinja2, SentenceTransformer",
+    description:
+      "Provides users with context-based answers to questions using a custom vector database for accurate retrieval.",
+    image: "./bioApp.png",
+    link: "https://github.com/rudra-singh1/ragChatbot",
+  },
+  {
     title: "ArcticBuoy-ML Predictor",
     subtitle: "Python, PyTorch, scikit-learn, pandas, NumPy, AWS",
     description:
@@ -8,20 +16,12 @@ export const projects = [
     link: "https://github.com/UW-MLGEO/MLGEO2024_AObuoypredict",
   },
   {
-    title: "Open Source Contributor: SCN",
-    subtitle: "Proxmox, Azure, Python Scripting, CRON Jobs, Technical Writing",
+    title: "USGS Earthquake Tracker",
+    subtitle: "Java Spring Boot, React, Google Maps API, Chart.js",
     description:
-      "Contributing to developing & maintaining open source software for Seattle Community Network.",
-    image: "./os ss.png",
-    link: "https://docs.seattlecommunitynetwork.org/tutorials/proxmox-vaultwarden-deployment/",
-  },
-  {
-    title: "Humans Helping Humans",
-    subtitle: "Swift, Google Firebase, Git",
-    description:
-      "Connecting low-income individuals with food and clothing through a donation platform.",
-    image: "./iosss.png", 
-    link: "https://devpost.com/software/humans-helping-humans",
+      "Real-time visualization of global seismic activity with interactive mapping and seismograph data.",
+    image: "./scripting pic.png",
+    link: "https://github.com/rudra-singh1/earthquakeTracker",
   },
   {
     title: "TopKHeap for Chess Player Rankings",
@@ -32,8 +32,32 @@ export const projects = [
     link: "https://github.com/rudra-singh1/topKheap/tree/main",
   },
   {
+    title: "CCN Coverage Vis",
+    subtitle: "TypeScript, Python, Node.js, Docker",
+    description:
+      "Maintaining fronend and API for visualizations of coverage and performance analysis for Seattle Community Cellular Networks.",
+    image: "./coverage.png",
+    link: "https://coverage.seattlecommunitynetwork.org/",
+  },
+  {
+    title: "Humans Helping Humans",
+    subtitle: "Swift, Google Firebase, Git",
+    description:
+      "Connecting low-income individuals with food and clothing through a donation platform.",
+    image: "./iosss.png", 
+    link: "https://devpost.com/software/humans-helping-humans",
+  },
+  {
+    title: "Open Source Contributor: SCN",
+    subtitle: "Proxmox, Azure, Python Scripting, CRON Jobs, Technical Writing",
+    description:
+      "Contributing to developing & maintaining open source software for Seattle Community Network.",
+    image: "./os ss.png",
+    link: "https://docs.seattlecommunitynetwork.org/tutorials/proxmox-vaultwarden-deployment/",
+  },
+  {
     title: " Dynamic Memory Allocator",
-    subtitle: "C, GDB, Valgrind",
+    subtitle: "C, Assembly, GDB, Valgrind",
     description:
       "Developed a high-performance memory management system with efficient allocation and deallocation strategies.",
     image: "./dynalloc.png", 
@@ -47,7 +71,6 @@ export const projects = [
     image: "./audioss.png", 
     link: "https://github.com/rudra-singh1/Spotify-Data-Transmission-Workflow",
   },
-  
   {
     title: "Vaultwarden",
     subtitle: "Azure, Linux, Docker, Nginx",
@@ -55,14 +78,6 @@ export const projects = [
       "Lightweight & open-source password manager.",
     image: "./ezgif.com-censor (1).gif",
     link: "https://vaultwarden.seattlecommunitynetwork.org/#/login",
-  },
-  {
-    title: "Personal Website",
-    subtitle: "React.js, Next.js, Node.js, HTML, CSS",
-    description:
-      "Responsive personal website & portfolio.",
-    image: "./personalwebsite recording.gif",
-    link: "",
   },
 ];
 

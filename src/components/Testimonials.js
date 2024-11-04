@@ -62,9 +62,17 @@ export default function Testimonials() {
                     <span>B.S Computer Science @ University of Washington</span>
                   </div>
                   <div className="mt-4">
-                    <span className="font-bold text-lg">Certifications:</span>{" "}
-                    <span>Microsoft Certified: Azure Developer Associate</span>
-                  </div>
+  <span className="font-bold text-lg">Certifications:</span>{" "}
+  <a
+    href="https://learn.microsoft.com/en-us/users/rudrasingh-1714/credentials/f19c817f810cee72?ref=https%3A%2F%2Fwww.linkedin.com%2F"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-blue-500 hover:underline"
+  >
+    Microsoft Certified: Azure Developer Associate
+  </a>
+</div>
+
                   <div className="mt-4">
                     <span className="font-bold text-lg">Activities and Societies:</span>{" "}
                     <span>Undergraduate Research, Golf</span>
