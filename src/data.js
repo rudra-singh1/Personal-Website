@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "Java Spring Boot, React, Google Maps API, Chart.js",
     description:
       "Real-time visualization of global seismic activity with interactive mapping and seismograph data.",
-    image: "./scripting pic.png",
+    image: "./earthquake.png",
     link: "https://github.com/rudra-singh1/earthquakeTracker",
   },
   {
