@@ -27,9 +27,10 @@ export default function Experience() {
                   Tech Stack: Angular, Typescript, Node.js, HTML, CSS, Python, FastAPI, OAuth MFA
                 </p>
                 <div className="mt-2">
-                <div className="text-white">• Developed Angular & Typescript web app that transformed 2.7M health records into accessible formats for 360K researchers</div>
-                <div className="text-white">• Built RESTful API backend in FastAPI and PostgreSQL, handling 10k concurrent requests for patient data retrieval</div>
-                <div className="text-white">• Implemented OAuth 2.0 MFA system for 14k CDC accounts, ensuring FHIR-compliant dataset access</div>
+                <div className="text-white">• Developed RESTful microservices using FastAPI and PostgreSQL, supporting high-traffic requests (10K concurrent).</div>
+                <div className="text-white">•	Built Angular frontend with modular TypeScript components enabling 360k researchers to analyze and interact with complex health datasets.</div>
+                <div className="text-white">•	Integrated OAuth 2.0 authentication, ensuring secure access for 14K CDC users in compliance with FHIR standards.</div>
+                <div className="text-white">•	Achieved 90% code coverage using Jest for unit testing and Postman for API endpoint testing.</div>
 
                 </div>
               </div>
@@ -44,9 +45,10 @@ export default function Experience() {
                   Tech Stack: Grafana, REST, FastAPI, Python, Proxmox VE, Swagger
                 </p>
                 <div className="mt-2">
-                <div className="text-white">• Architected Grafana log dashboard monitoring system for 15 SCN servers, reducing incident response time by 75%</div>
-                <div className="text-white">• Implemented REST API with FastAPI for CRUD operations, processing 10K+ daily log entries</div>
-                <div className="text-white">• Implemented TypeScript features on user interface, and deployed via Proxmox VE</div>
+                <div className="text-white">•	Built a distributed log monitoring system integrating Prometheus, Grafana, & Loki, enabling real-time visibility into 15 sites.</div>
+                <div className="text-white">•	Wrote Python-based data collectors utilizing asynchronous I/O and batch processing to minimize log transmission latency.</div>
+                <div className="text-white">•	Automated system deployment on Proxmox VE using Docker and Terraform, reducing manual setup times by 70%.</div>
+                <div className="text-white">•	Drafted and presented technical design documents with project goals and implemented technical feedback from the team.</div>
                 </div>
               </div>
             </div>
@@ -60,9 +62,9 @@ export default function Experience() {
                   Tech Stack: Azure, Docker, Ubuntu, MongoDB, Nginx, SSL, Python 
                 </p>
                 <div className="mt-2">
-                <div className="text-white">• Improved security for 200 users by deploying password manager using Azure Cloud (MongoDB Atlas, VM, Blob Storage)</div>
-                <div className="text-white">• Reduced Azure Blob Storage costs from $480 to $0.12/year by automating MongoDB backups with Python scripting</div>
-                <div className="text-white">• Enhanced app deployment using Docker for multi-container setups via Docker Compose (YAML) and Dockerfiles</div>
+                <div className="text-white">•	Deployed a secure password manager for 200 users on Azure Cloud, utilizing MongoDB Atlas, Blob Storage, and VMs.</div>
+                <div className="text-white">•	Cut Azure storage costs from $480 to $0.12/year by automating MongoDB backups via Python and Bash scripting.</div>
+                <div className="text-white">•	Enhanced multi-container Docker deployments, employing DNS, Nginx reverse proxy and SSL for traffic routing.</div>
                 </div>
               </div>
             </div>
@@ -76,8 +78,9 @@ export default function Experience() {
                   Tech Stack: React, AJAX, MySQL, MATLAB, IoT, Sensors
                 </p>
                 <div className="mt-2">
-                <div className="text-white">• Developed real-time sports analytics platform processing 4TB of sensor data during Bobby Dodd Stadium football games</div>
-                <div className="text-white">• Built React frontend integrated with MATLAB backend & MySQL database, handling 500 concurrent AJAX requests</div>
+                <div className="text-white">•	Developed real-time distributed IoT system for sports analytics, processing 4TB of data using C++ for backend computations.</div>
+                <div className="text-white">•	Created a React-based frontend and integrated AJAX-based APIs for seamless data interaction with a MATLAB backend.</div>
+                <div className="text-white">•	Designed high-throughput, low-latency networking protocols for efficient data transfer and system performance.</div>
                 </div>
               </div>
             </div>
