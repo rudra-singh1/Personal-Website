@@ -17,6 +17,26 @@ export default function Experience() {
         <div className="relative">
           <div className="border-r-4 border-green-400 absolute h-full left-0"></div>
           <div className="ml-12">
+       {/* Undergraduate Research Assistant @ UW Denolle Quake Lab  */}
+            <div className="flex items-center mb-6">
+              <div className="w-6 h-6 bg-green-400 rounded-full mr-4 mt-2"></div>
+              <div className="bg-gray-800 rounded p-4 flex-grow">
+                <p className="text-white">Undergraduate Research Assistant @ UW Denolle Quake Lab</p>
+                <p className="text-gray-300 text-base">Sep 2024 - Present</p>
+                <p className="text-gray-400 text-sm">
+                  Tech Stack: Amazon Chronos LLM, Salesforce Morai, Transformers, PyTorch, CUDA, Kubernetes, Docker, Scikit-learn, Python
+                </p>
+                <div className="mt-2">
+                <div className="text-white">• Integrated Amazon Chronos LLM and Salesforce Morai foundation models to develop probabilistic time series 
+forecasting models for seismic and geophysical data.</div>
+                <div className="text-white">•	Designed Transformer-based architectures for geophysical time series forecasting, leveraging PyTorch and ObsPy. </div>
+                <div className="text-white">•	Created inference pipelines with CUDA, Docker, and Kubernetes on an AWS EC2 instance. </div>
+                <div className="text-white">•	Developed data preprocessing workflows to handle noise & heterogeneity in datasets, utilizing Scikit-learn & Python scripts.</div>
+                </div>
+              </div>
+            </div>
+
+  
           {/* Software Enginer Intern @ Centers for Disease Control and Prevention  */}
             <div className="flex items-center mb-6">
               <div className="w-6 h-6 bg-green-400 rounded-full mr-4 mt-2"></div>
@@ -78,9 +98,8 @@ export default function Experience() {
                   Tech Stack: React, AJAX, MySQL, MATLAB, IoT, Sensors
                 </p>
                 <div className="mt-2">
-                <div className="text-white">•	Developed real-time distributed IoT system for sports analytics, processing 4TB of data using C++ for backend computations.</div>
-                <div className="text-white">•	Created a React-based frontend and integrated AJAX-based APIs for seamless data interaction with a MATLAB backend.</div>
-                <div className="text-white">•	Designed high-throughput, low-latency networking protocols for efficient data transfer and system performance.</div>
+                <div className="text-white">•	Built front-end components in React, backend classes in C#, and connected web application to a SQL Server database (local 
+& Azure) for real-time IoT stadium analytics. </div>
                 </div>
               </div>
             </div>
